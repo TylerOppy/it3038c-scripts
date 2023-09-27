@@ -13,4 +13,4 @@ else:
     current_date = datetime.now()
     age_in_seconds = (current_date - birthday_date).total_seconds()
 
-    print(f"You are approximately {int(age_in_seconds)} seconds old.")
+    print(f"You are about {int(age_in_seconds)} seconds old.")
