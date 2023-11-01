@@ -25,7 +25,8 @@ This PowerShell script retrieves various system-related information and displays
 - CPU Information (Name and Cores)
 - Disk Drive Information (Drive Letter, Total Size, and Free Space)
 - Network Configuration (Adapter Description, IP Address, Subnet Mask, and MAC Address)
-- Customization
+
+## Customization
 - You can customize the script to include additional system-related information or exclude any details you don't need. Feel free to modify the script to meet your specific requirements.
 
 Prerequisites:
