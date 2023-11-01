@@ -33,8 +33,8 @@ Prerequisites:
 - PowerShell must be available on your Windows system.
 - The script is designed for Windows operating systems.
 
-Author:
+## Author
 Tyler Oppy
 
-Acknowledgments:
+## Acknowledgments
 This script is based on the work of the PowerShell community and various online resources.
