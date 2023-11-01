@@ -15,22 +15,22 @@ This PowerShell script retrieves various system-related information and displays
    ```powershell
    cd C:\Scripts
 
-Information Displayed:
-Current Date & Time
-Current User
-Hostname
-Operating System Version and Build Number
-System Architecture (32-bit or 64-bit)
-Total Physical Memory (RAM) in gigabytes
-CPU Information (Name and Cores)
-Disk Drive Information (Drive Letter, Total Size, and Free Space)
-Network Configuration (Adapter Description, IP Address, Subnet Mask, and MAC Address)
-Customization
-You can customize the script to include additional system-related information or exclude any details you don't need. Feel free to modify the script to meet your specific requirements.
+## Information Displayed:
+- Current Date & Time
+- Current User
+- Hostname
+- Operating System Version and Build Number
+- System Architecture (32-bit or 64-bit)
+- Total Physical Memory (RAM) in gigabytes
+- CPU Information (Name and Cores)
+- Disk Drive Information (Drive Letter, Total Size, and Free Space)
+- Network Configuration (Adapter Description, IP Address, Subnet Mask, and MAC Address)
+- Customization
+- You can customize the script to include additional system-related information or exclude any details you don't need. Feel free to modify the script to meet your specific requirements.
 
 Prerequisites:
-PowerShell must be available on your Windows system.
-The script is designed for Windows operating systems.
+- PowerShell must be available on your Windows system.
+- The script is designed for Windows operating systems.
 
 Author:
 Tyler Oppy
