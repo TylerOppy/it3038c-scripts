@@ -37,4 +37,4 @@ Prerequisites:
 Tyler Oppy
 
 ## Acknowledgments
-This script is based on the work of the PowerShell community and various online resources.
+This script is based on the content of Daniel Leonard's Scripting I class (IT3038C) and various online resources.
