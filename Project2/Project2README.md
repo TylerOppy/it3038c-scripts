@@ -1,6 +1,6 @@
-Project 2 README
 
-# PowerShell System Information Script
+
+# Project 2 ~ PowerShell System Information Script
 
 ## Description
 
