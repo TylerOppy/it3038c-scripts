@@ -58,6 +58,6 @@ Ensure that PowerShell execution policy allows script execution. You can set it 
 
 Set-ExecutionPolicy RemoteSigned
 
-Author: Tyler Oppy
-Version: 1.0
-Last Updated: 12/3/2023
+### Author: Tyler Oppy
+### Version: 1.0
+### Last Updated: 12/3/2023
