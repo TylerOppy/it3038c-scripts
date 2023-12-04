@@ -61,3 +61,6 @@ Set-ExecutionPolicy RemoteSigned
 ### Author: Tyler Oppy
 ### Version: 1.0
 ### Last Updated: 12/3/2023
+
+### Acknowledgments
+This script is based on the content of Daniel Leonard's Scripting I class (IT3038C) and various online resources.
